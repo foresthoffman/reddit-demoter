@@ -1,0 +1,1 @@
+document.querySelectorAll(".promotedlink").forEach((el) => el.remove());

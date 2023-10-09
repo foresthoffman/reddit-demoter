@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Reddit Demoter",
+  "version": "1.0",
+
+  "description": "Hides content that does not relate to the reddit page that the user is viewing.",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.reddit.com/*"],
+      "js": ["reddit-demoter.js"]
+    }
+  ]
+}
