@@ -4,11 +4,11 @@
       "updates": [
         {
           "version": "1.0",
-          "update_link": "https://github.com/foresthoffman/reddit-demoter/raw/main/web-ext-artifacts/reddit_demoter-1.0.zip"
+          "update_link": "https://github.com/foresthoffman/reddit-demoter/raw/main/web-ext-artifacts/reddit_demoter-1.0.xpi"
         },
         {
           "version": "1.1",
-          "update_link": "https://github.com/foresthoffman/reddit-demoter/raw/main/web-ext-artifacts/reddit_demoter-1.1.zip",
+          "update_link": "https://github.com/foresthoffman/reddit-demoter/raw/main/web-ext-artifacts/reddit_demoter-1.1.xpi",
         }
       ]
     }
