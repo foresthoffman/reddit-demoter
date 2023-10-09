@@ -1,0 +1,16 @@
+{
+  "addons": {
+    "76c64c9f-fab9-4042-80bd-60a36a2d1643": {
+      "updates": [
+        {
+          "version": "1.0",
+          "update_link": "https://github.com/foresthoffman/reddit-demoter/raw/main/web-ext-artifacts/reddit_demoter-1.0.zip"
+        },
+        {
+          "version": "1.1",
+          "update_link": "https://github.com/foresthoffman/reddit-demoter/raw/main/web-ext-artifacts/reddit_demoter-1.1.zip",
+        }
+      ]
+    }
+  }
+}
